@@ -1,0 +1,86 @@
+.yellow-col {
+    background-color: yellow;
+}
+
+.purple-col {
+    background-color: purple;
+}
+
+.blue-col {
+    background-color: blue;
+}
+
+.green-col {
+    background-color: green;
+}
+
+.orange-col {
+
+    background-color: orange;
+}
+
+.red-col {
+
+    background-color: red;
+}
+
+.brown-col {
+
+    background-color: brown;
+}
+
+.gray-col {
+    background-color: gray;
+}
+
+.turquoise-col {
+
+    background-color: turquoise;
+}
+
+html body {
+    font-family: 'Assistant', sans-serif;
+    background-color: rgba(248, 248, 248, 1.0);
+}
+
+.nav-bar-color {
+
+    background-color: rgba(53, 29, 5, 1.0);
+
+}
+
+.nav-link {
+
+    color: rgb(212, 212, 212) !important;
+}
+
+.nav-link:hover {
+
+    color: white !important;
+}
+
+.nav-highlight, .navbar-brand {
+
+    color: white !important;
+    font-weight: 700;
+}
+
+.navbar-toggler {
+
+    filter: invert(100%);
+}
+
+h1 {
+
+    font-size: 1.802em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.602em;
+    font-weight: 700;
+}
+
+.footer-cr {
+    text-align: center;
+}
