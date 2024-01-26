@@ -84,3 +84,22 @@ h2 {
 .footer-cr {
     text-align: center;
 }
+
+.btn-primary {
+    background-color: orangered;
+    border-color: orangered;
+}
+
+.btn-primary:hover {
+    background-color:rgb(211, 73, 58);
+    border-color: rgb(211, 73, 58);
+}
+
+.carousel-padding {
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgb(211, 73, 58);
+}
